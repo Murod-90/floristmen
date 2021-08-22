@@ -106,3 +106,23 @@ a {
   color: #8E8D6F;
   font-size: 18px;
 }
+.bobur__title{
+  margin-left: 135px;
+  margin-right: 765px;
+ 
+}
+.bobur_item{
+  margin-left: 743px;
+  margin-right: 134px;
+  margin-top:  100px;
+  
+}
+.bobur__item{
+  
+position: absolute;
+width: 586px;
+height: 280px;
+left: 369px;
+top: 1355px;
+border-radius: 20px 0px 20px 20px;
+}
