@@ -106,3 +106,105 @@ a {
   color: #8E8D6F;
   font-size: 18px;
 }
+.akmal__title{
+  margin-top: 80px;
+  font-family: var(--bask);
+  font-weight: 700;
+  font-size: 48px;
+}
+.akmal__img{
+  margin-top: 40px;
+  margin-bottom: 50px;
+}
+.title-two{
+  margin-top: 0;
+}
+.ramka{
+ 
+  display: flex;
+  align-items: center;
+}
+.ramka__img{
+  width: 45px;
+  height: 44px;
+}
+.akmal__item{
+  width: 284px;
+  height: 427px;
+  background: red;
+  position: relative;
+}
+.natasha__img{
+  display: flex;
+  justify-content: center;
+  padding-top: 10px;
+  padding-left: 10px;
+  
+  
+}
+.akmal__btn{
+  display: flex;
+  flex-direction: column;
+  position: absolute;
+  top: 18px;
+  left: 10px;
+}
+.natasha__btn{
+  width: 102px;
+  height: 17px;
+  background: violet;
+  margin-bottom: 3px;
+  border-radius: 4px;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-weight: 500;
+  font-size: 14px;
+}
+.btn__green{
+  background: greenyellow;
+}
+.btn__orange{
+  background: orange;
+}
+.btn__yellow{
+  background: yellow;
+  color: #7EA048;
+  position:absolute;
+  right: 10px;
+  top: 235px;
+}
+.natasha__title{
+  padding-left: 10px;
+  margin-top: 9px;
+  font-weight: 500;
+  font-size: 16px;
+  
+ 
+}
+.akmal__bootom{
+  display: flex;
+  margin-top: 49px;
+}
+.akmal__end-text{
+  font-weight: 500;
+  font-size: 13px;
+  color: #8E8D6F;
+ 
+}
+.text-fz-16{
+  font-size: 16px;
+}
+.akmal__button{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  br20
+  width: 140px;
+  height: 40px;
+  background: #D7537A;
+  color: white;
+  font-weight: 600;
+  font-size: 18px;
+}
